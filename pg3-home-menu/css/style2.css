@@ -1,0 +1,79 @@
+header{
+  width: 100%;
+  height: 70px;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 60px;
+  color: #FF6347;
+
+}
+section{
+  background-color: red;
+}
+.white{
+  font-family: 'Indie Flower', cursive;
+  background-color: #00002E;
+  margin: 60px 80px;
+  opacity: 0.7;
+  font-family: 'Black Han Sans', sans-serif;
+}
+.nav{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  list-style: none;
+  padding: 0px 0px;
+}
+li{
+  width: 201px;
+  height: 30px;
+  flex: 1;
+  color: gold;
+  border: gold solid 2px;
+  justify-content: center;
+  margin: 0px, 15px, 0px, 15px;
+}
+#messege{
+  display: inline;
+}
+
+/* div{ */
+  margin-top:75px;
+  width: 75%;
+  height: 100px;
+}
+section{
+  border: 2px black solid;
+  margin-top:75px;
+  width: 170px;
+  height: 100px;
+  opacity: 0.7;
+  filter: alpha(opacity=50);
+}
+a{
+  background-color: red;
+  border: black 1px;
+  display: inline;
+}
+div  h1{
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+
+}
+h2{
+  display: inline;
+}
+/* a img { display:none;
+}
+ a:hover img {
+   display:block;
+   background-image: url("https://www.planetacurioso.com/wp-content/uploads/2014/03/perro-abandonado.jpg");
+ } */
+
+ .btn6:hover ~ .img {
+   display: block;
+ }
+ .img {
+   display: none;
+ }
