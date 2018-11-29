@@ -1,0 +1,40 @@
+header{
+  width: 100%;
+  height: 70px;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 60px;
+  filter: alpha(opacity=50);
+  background-color: #00002E;
+  opacity: 0.5;
+  color: #FF6347;
+}
+body{
+  background-color: #00002E;
+  text-align: center;
+  justify-content: center;
+}
+.container{
+  color: gold;
+  width: 35%;
+  height: 450px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 33%;
+  margin-top: 30px;
+}
+.search{
+  height: 50%;
+  width: 100%;
+  display: block;
+  border: 2px solid yellow;
+  justify-content: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 60px
+}
+#space{
+  height:10px;
+  width: 100%;
+  display: inline-block;
+}

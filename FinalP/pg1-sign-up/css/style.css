@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://images6.alphacoders.com/407/thumb-1920-407554.jpg");
+  width:100%;
+  height: 100%;
+  /* justify-content: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px 0px;
+    font-family: 'Black Han Sans', sans-serif;
+
+}
+.container{
+  margin-left: 75%;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  background-color: gold;
+  height: 700px;
+
+}
+
+h1{
+  margin: 0px 0 0 15px
+}
+form{
+  margin-left: 45px;
+  display: block;
+}
+input{
+  margin: 10px 10px ;
+  display: block;
+  width: 85%;
+}
